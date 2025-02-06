@@ -42,7 +42,7 @@ A powerful and intuitive application that allows users to chat with multiple PDF
 3. Create a new API key
 4. Add the key to your `.env` file
 
-## 📍 Conclusion
+## Conclusion
 
 The PDF Chat Application demonstrates the powerful integration of modern AI capabilities with practical document interaction needs. This project successfully combines Google's Gemini AI technology with an intuitive user interface to create a tool that makes document interaction more efficient and intelligent.
 
