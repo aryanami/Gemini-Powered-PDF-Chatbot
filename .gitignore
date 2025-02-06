@@ -1,1 +1,3 @@
-GOOGLE_API_KEY = "AIzaSyBs-M2W3gGuUXSOd7GXE0nXou8LQ6p9_Tg"
+.env
+.env.local
+.env.*
