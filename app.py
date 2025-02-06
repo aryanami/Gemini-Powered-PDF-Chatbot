@@ -10,7 +10,8 @@ from langchain.prompts import PromptTemplate
 import os
 
 # Load environment variables
-load_dotenv()
+api_key = st.secrets["GOOGLE_API_KEY"]
+os.environ["GOOGLE_API_KEY"] = api_key
 
 def get_pdf_text(pdf_docs):
     text = ""
