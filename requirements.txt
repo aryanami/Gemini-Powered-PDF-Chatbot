@@ -1,9 +1,10 @@
-streamlit==1.31.0
-python-dotenv==1.0.0
-PyPDF2==3.0.1
-langchain-core==0.1.28
-langchain==0.1.0
+streamlit
+python-dotenv
+PyPDF2
+langchain-core==0.3.29
+langsmith==0.0.87
+langchain-text-splitters==0.3.5
 langchain-community==0.0.20
 langchain-google-genai==0.0.11
-chromadb==0.4.22
-langchain-text-splitters==0.0.1
+langchain==0.1.0
+chromadb
